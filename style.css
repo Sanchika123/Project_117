@@ -19,3 +19,24 @@
     font-size: 18px;
 }
 
+.result_tag{
+    box-shadow: 5px 5px 10px grey;
+    font-size: 20px;
+}
+
+.footer{
+    position: fixed;
+    text-align: center;
+    background-color: grey;
+    color: white;
+    line-height: 3;
+    bottom: 0;
+    width: 100%;
+}
+
+canvas{
+    border: 5px solid white;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 20px;
+    margin-top: 160px;
+}
