@@ -8,8 +8,8 @@
 
 .heading_div{
     float: none;
-    background-color: #afffee;
-    color: black;
+    background-color: rgb(44, 44, 44);
+    color: rgb(255, 255, 255);
     border-radius: 20px;
     padding: 10px;
     box-shadow: 5px 5px 10px black;
